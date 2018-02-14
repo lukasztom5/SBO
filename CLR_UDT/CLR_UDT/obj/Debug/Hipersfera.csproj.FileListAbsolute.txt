@@ -1,0 +1,15 @@
+C:\Users\Lukasz\Documents\CLR_UDT\CLR_UDT\bin\Debug\CLR_UDT.dll
+C:\Users\Lukasz\Documents\CLR_UDT\CLR_UDT\bin\Debug\CLR_UDT.pdb
+C:\Users\Lukasz\Documents\CLR_UDT\CLR_UDT\bin\Debug\mscorlib.dll
+C:\Users\Lukasz\Documents\CLR_UDT\CLR_UDT\bin\Debug\System.Net.Http.dll
+C:\Users\Lukasz\Documents\CLR_UDT\CLR_UDT\bin\Debug\System.Net.Http.xml
+C:\Users\Lukasz\Documents\CLR_UDT\CLR_UDT\bin\Debug\cs\mscorlib.resources.dll
+C:\Users\Lukasz\Documents\CLR_UDT\CLR_UDT\bin\Debug\hu\mscorlib.resources.dll
+C:\Users\Lukasz\Documents\CLR_UDT\CLR_UDT\bin\Debug\pl\mscorlib.resources.dll
+C:\Users\Lukasz\Documents\CLR_UDT\CLR_UDT\bin\Debug\normidna.nlp
+C:\Users\Lukasz\Documents\CLR_UDT\CLR_UDT\bin\Debug\normnfc.nlp
+C:\Users\Lukasz\Documents\CLR_UDT\CLR_UDT\bin\Debug\normnfd.nlp
+C:\Users\Lukasz\Documents\CLR_UDT\CLR_UDT\bin\Debug\normnfkc.nlp
+C:\Users\Lukasz\Documents\CLR_UDT\CLR_UDT\bin\Debug\normnfkd.nlp
+C:\Users\Lukasz\Documents\CLR_UDT\CLR_UDT\obj\Debug\CLR_UDT.dll
+C:\Users\Lukasz\Documents\CLR_UDT\CLR_UDT\obj\Debug\CLR_UDT.pdb
